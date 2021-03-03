@@ -26,8 +26,7 @@ jobs:
 
        
        - name: Clone ErfanGSI Source Code
-         run: git clone --recurse-submodules https://github.com/berkays0733/ErfanGSIs.git  ErfanGSIs
-       
+         run: git clone --recurse-submodules https://github.com/samet0505/ErfanGSIs-VelanGSIs.git  
        - name: Setting up ErfanGSI requirements
          run: |
               sudo chmod -R 777 ErfanGSIs
