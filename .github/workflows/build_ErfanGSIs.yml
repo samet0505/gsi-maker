@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hell.godseye.workers.dev/MMX_Whyred_21.1.6_whyred_Shubh_21.1.6_10.zip
+  ROM_URL: https://bigota.d.miui.com/21.3.1/miui_GINKGO_21.3.1_11d6052d14_11.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
