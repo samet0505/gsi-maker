@@ -6,7 +6,7 @@ on:
     
 env:
   ROM_URL: https://bigota.d.miui.com/21.3.1/miui_GINKGO_21.3.1_11d6052d14_11.0.zip
-  ROM_NAME: MIUI
+  ROM_NAME: MIUI 12.5 v21.3.1
   TZ: Asia/Kolkata
   MIR: wet
   ZIP_NAME: mıuımx12.5
